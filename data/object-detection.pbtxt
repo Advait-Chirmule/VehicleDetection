@@ -1,6 +1,6 @@
 # LABEL file 
-# Last modified by ThundluckS on 13 Dec'19
-# revise name for labels : 'totoro' && 'nekobus'
+# Last modified by ThundluckS on 13 Dec'19, Advait on 4 Sep '22
+# revise name for labels : 'Car' && 'Bus' && 'Auto'
 
 item {
     id: 1
